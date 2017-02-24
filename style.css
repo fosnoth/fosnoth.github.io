@@ -1,0 +1,50 @@
+/* Commentire css*/
+p{}
+body{
+	background-image: url("viking.png"), url("fond_viking.png");
+	background-size: 10%, 100%;
+	background-repeat: no-repeat, no-repeat;
+	background-position: center-right	
+	
+}
+
+.premierp{
+	
+	
+	font-size:50pt;
+	text-align:center;
+	
+	
+}
+
+.univers1{
+	background-color: black;
+	border-style:groove;
+	border-color:black;
+	border-radius:15px;
+	color:white;
+	font-size:20pt;
+	font:Andalus;
+}
+
+.telechargement{
+	background-color: black;
+	border-style:groove;
+	border-color:black;
+	border-radius:15px;
+	color:white;
+	font-size:20pt;
+	font:Andalus;
+	
+}
+
+.actualites{
+	background-color: black;
+	border-style:groove;
+	border-color:black;
+	border-radius:15px;
+	color:white;
+	font-size:20pt;
+	font:Andalus;
+	
+}
