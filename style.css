@@ -1,0 +1,67 @@
+/* Commentire css*/
+p{}
+body{
+	
+	
+}
+
+h1{
+	border-radius:15px;
+	color:#2EAC9B;
+	font-size:30pt;
+	font:Andalus;
+	text-align = center ;
+}
+
+.fosnotp{
+	text-align = center ;
+	font-size:20pt;
+		color:black;
+
+}
+
+.kan{
+	text-align = center ;
+	font-size:20pt;
+		color:red;
+}
+
+.tp{
+	font-size:17pt;
+		color:black;
+	
+}
+
+.ger{
+	text-align = center ;
+	font-size:20pt;
+		color:red;
+}
+
+.mp{
+	font-size:17pt;
+		color:black;
+}
+
+.tom{
+	text-align = center ;
+	font-size:20pt;
+		color:red;
+}
+.lp{
+	font-size:17pt;
+		color:black;
+	
+}
+
+.kev{
+	text-align = center ;
+	font-size:20pt;
+		color:red;
+}
+
+.kp{
+	font-size:17pt;
+		color:black;
+	
+}
