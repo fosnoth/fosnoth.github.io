@@ -22,7 +22,7 @@ margin:auto;
 }
 
 .kan{
-	text-align = center ;
+	text-align: justify;
 	font-size:20pt;
 		color:red;
 }
@@ -34,7 +34,7 @@ margin:auto;
 }
 
 .ger{
-	text-align = center ;
+	text-align: justify;
 	font-size:20pt;
 		color:red;
 }
@@ -45,7 +45,7 @@ margin:auto;
 }
 
 .tom{
-	text-align = center ;
+	text-align: justify;
 	font-size:20pt;
 		color:red;
 }
@@ -56,7 +56,7 @@ margin:auto;
 }
 
 .kev{
-	text-align = center ;
+	text-align: justify;
 	font-size:20pt;
 		color:red;
 }
@@ -68,7 +68,7 @@ margin:auto;
 }
 
 .ajouts{
-	text-align = center ;
+	text-align: justify;
 	font-size:20pt;
 		color:black;
 }
