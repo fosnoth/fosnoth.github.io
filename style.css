@@ -7,10 +7,10 @@ body{
 
 h1{
 	width: 900px;
-margin:auto;
+	margin:auto;
 	color:#2EAC9B;
 	font-size:30pt;
-	font:avantgarde;
+	font-family:Verdana, sans-serif;
 }
 
 
